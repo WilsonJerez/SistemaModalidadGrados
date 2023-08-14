@@ -1,0 +1,978 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7A8BB0A4-44EF-4741-A0E4-24C14690AF0A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VISTAS</RootNamespace>
+    <AssemblyName>VISTAS</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AlertasDelDia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlertasDelDia.Designer.cs">
+      <DependentUpon>AlertasDelDia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AMPLIACION\Retrazar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AMPLIACION\Retrazar.Designer.cs">
+      <DependentUpon>Retrazar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AULA\InsertarAula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AULA\InsertarAula.Designer.cs">
+      <DependentUpon>InsertarAula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AULA\ModificarAula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AULA\ModificarAula.designer.cs">
+      <DependentUpon>ModificarAula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CARGO\InsertarCargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CARGO\InsertarCargo.Designer.cs">
+      <DependentUpon>InsertarCargo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CARGO\ModificarCargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CARGO\ModificarCargo.designer.cs">
+      <DependentUpon>ModificarCargo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CARRERA\InsertarCarrera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CARRERA\InsertarCarrera.Designer.cs">
+      <DependentUpon>InsertarCarrera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CARRERA\ModificarCarrera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CARRERA\ModificarCarrera.designer.cs">
+      <DependentUpon>ModificarCarrera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONFIGURACION\AgregarDireccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONFIGURACION\AgregarDireccion.Designer.cs">
+      <DependentUpon>AgregarDireccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CRONOGRAMA\ActualizarCronograma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRONOGRAMA\ActualizarCronograma.Designer.cs">
+      <DependentUpon>ActualizarCronograma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CRONOGRAMA\InsertarCronograma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRONOGRAMA\InsertarCronograma.Designer.cs">
+      <DependentUpon>InsertarCronograma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DEFENSAS\Actualizar\ActualizarFecha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DEFENSAS\Actualizar\ActualizarFecha.Designer.cs">
+      <DependentUpon>ActualizarFecha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DEFENSAS\Actualizar\ActualizarNotas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DEFENSAS\Actualizar\ActualizarNotas.Designer.cs">
+      <DependentUpon>ActualizarNotas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DEFENSAS\Actualizar\ActualizarTribunales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DEFENSAS\Actualizar\ActualizarTribunales.Designer.cs">
+      <DependentUpon>ActualizarTribunales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DEFENSAS\Actualizar\ActualizarTribunalPorCambioFechaDefensa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DEFENSAS\Actualizar\ActualizarTribunalPorCambioFechaDefensa.Designer.cs">
+      <DependentUpon>ActualizarTribunalPorCambioFechaDefensa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DEFENSAS\InsertarDefensas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DEFENSAS\InsertarDefensas.Designer.cs">
+      <DependentUpon>InsertarDefensas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DEFENSA_III\ACTUALIZAR\FechaDefensaModIII.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DEFENSA_III\ACTUALIZAR\FechaDefensaModIII.Designer.cs">
+      <DependentUpon>FechaDefensaModIII.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DEFENSA_III\ACTUALIZAR\FinalizarCambioFecha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DEFENSA_III\ACTUALIZAR\FinalizarCambioFecha.Designer.cs">
+      <DependentUpon>FinalizarCambioFecha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DEFENSA_III\ACTUALIZAR\Notas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DEFENSA_III\ACTUALIZAR\Notas.Designer.cs">
+      <DependentUpon>Notas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DEFENSA_III\ACTUALIZAR\TribunalesDefensaMinisterio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DEFENSA_III\ACTUALIZAR\TribunalesDefensaMinisterio.Designer.cs">
+      <DependentUpon>TribunalesDefensaMinisterio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DEFENSA_III\InsertarDefensaIII.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DEFENSA_III\InsertarDefensaIII.Designer.cs">
+      <DependentUpon>InsertarDefensaIII.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DEFENSA_II\Actualizar\ActualizarFecha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DEFENSA_II\Actualizar\ActualizarFecha.Designer.cs">
+      <DependentUpon>ActualizarFecha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DEFENSA_II\Actualizar\ActualizarNotas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DEFENSA_II\Actualizar\ActualizarNotas.Designer.cs">
+      <DependentUpon>ActualizarNotas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DEFENSA_II\Actualizar\ActualizarTribunales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DEFENSA_II\Actualizar\ActualizarTribunales.Designer.cs">
+      <DependentUpon>ActualizarTribunales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DEFENSA_II\Actualizar\ActualizarTribunalPorCambioFechaDefensa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DEFENSA_II\Actualizar\ActualizarTribunalPorCambioFechaDefensa.Designer.cs">
+      <DependentUpon>ActualizarTribunalPorCambioFechaDefensa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DEFENSA_II\Actualizar\InsertarDefesaModalidadII.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DEFENSA_II\Actualizar\InsertarDefesaModalidadII.Designer.cs">
+      <DependentUpon>InsertarDefesaModalidadII.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DOCENTE\InsertarDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DOCENTE\InsertarDocente.Designer.cs">
+      <DependentUpon>InsertarDocente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DOCENTE\ModificarDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DOCENTE\ModificarDocente.designer.cs">
+      <DependentUpon>ModificarDocente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ESTUDIANTE\ACTUALIZAR_ESTUDIANTE\DatosCarrra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ESTUDIANTE\ACTUALIZAR_ESTUDIANTE\DatosCarrra.Designer.cs">
+      <DependentUpon>DatosCarrra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ESTUDIANTE\ACTUALIZAR_ESTUDIANTE\DatosModalidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ESTUDIANTE\ACTUALIZAR_ESTUDIANTE\DatosModalidad.Designer.cs">
+      <DependentUpon>DatosModalidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ESTUDIANTE\ACTUALIZAR_ESTUDIANTE\DatosPersonales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ESTUDIANTE\ACTUALIZAR_ESTUDIANTE\DatosPersonales.Designer.cs">
+      <DependentUpon>DatosPersonales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ESTUDIANTE\ACTUALIZAR_ESTUDIANTE\SeleccionDeEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ESTUDIANTE\ACTUALIZAR_ESTUDIANTE\SeleccionDeEstudiante.Designer.cs">
+      <DependentUpon>SeleccionDeEstudiante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ESTUDIANTE\InsertarEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ESTUDIANTE\InsertarEstudiante.Designer.cs">
+      <DependentUpon>InsertarEstudiante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ESTUDIANTE\InsertarEstudianteNuevaCarrera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ESTUDIANTE\InsertarEstudianteNuevaCarrera.Designer.cs">
+      <DependentUpon>InsertarEstudianteNuevaCarrera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ESTUDIANTE\InsertarEstudianteRepitente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ESTUDIANTE\InsertarEstudianteRepitente.Designer.cs">
+      <DependentUpon>InsertarEstudianteRepitente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FACULTAD\ActualizarFacultad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FACULTAD\ActualizarFacultad.designer.cs">
+      <DependentUpon>ActualizarFacultad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FACULTAD\InsertarFacultad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FACULTAD\InsertarFacultad.Designer.cs">
+      <DependentUpon>InsertarFacultad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GRUPO\InsertarGrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GRUPO\InsertarGrupo.Designer.cs">
+      <DependentUpon>InsertarGrupo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GRUPO\ModificarGrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GRUPO\ModificarGrupo.designer.cs">
+      <DependentUpon>ModificarGrupo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GRUPO\MODIFICAR\DatosDelGrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GRUPO\MODIFICAR\DatosDelGrupo.Designer.cs">
+      <DependentUpon>DatosDelGrupo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GRUPO\MODIFICAR\ModificarDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GRUPO\MODIFICAR\ModificarDocente.Designer.cs">
+      <DependentUpon>ModificarDocente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MODALIDAD_II\ActualizarModalidadII.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MODALIDAD_II\ActualizarModalidadII.designer.cs">
+      <DependentUpon>ActualizarModalidadII.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MODALIDAD_II\RegistrarModalidadII.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MODALIDAD_II\RegistrarModalidadII.Designer.cs">
+      <DependentUpon>RegistrarModalidadII.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MODALIDAD_OLVIDADA\InsertarModalidadOlvidada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MODALIDAD_OLVIDADA\InsertarModalidadOlvidada.Designer.cs">
+      <DependentUpon>InsertarModalidadOlvidada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="REPORTES\AULA\CrAula.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrAula.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTES\AULA\ReporteAula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORTES\AULA\ReporteAula.Designer.cs">
+      <DependentUpon>ReporteAula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REPORTES\CRONOGRAMA\CrPresentacionCronogramaPorFecha.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrPresentacionCronogramaPorFecha.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTES\CRONOGRAMA\RepPresentacionCronogramaPorFecha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORTES\CRONOGRAMA\RepPresentacionCronogramaPorFecha.Designer.cs">
+      <DependentUpon>RepPresentacionCronogramaPorFecha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REPORTES\DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTES\DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="REPORTES\DEFENSA\CrDefensaModIIPendientesDeNotas.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrDefensaModIIPendientesDeNotas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTES\DEFENSA\CrDefensasModIPendientesDeNotas.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrDefensasModIPendientesDeNotas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTES\DEFENSA\CrDefensasParaHoy.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrDefensasParaHoy.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTES\DEFENSA\CrHabilitadosModalidadII.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrHabilitadosModalidadII.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTES\DEFENSA\CrHabilitadosSegundaInstancia.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrHabilitadosSegundaInstancia.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTES\DEFENSA\CrReporteGraduadosPorFechas.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrReporteGraduadosPorFechas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTES\DEFENSA\DefensasParaHoy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORTES\DEFENSA\DefensasParaHoy.Designer.cs">
+      <DependentUpon>DefensasParaHoy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REPORTES\DEFENSA\HabilitadosModalidadII.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORTES\DEFENSA\HabilitadosModalidadII.Designer.cs">
+      <DependentUpon>HabilitadosModalidadII.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REPORTES\DEFENSA\HabilitadosSegundaInstancia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORTES\DEFENSA\HabilitadosSegundaInstancia.Designer.cs">
+      <DependentUpon>HabilitadosSegundaInstancia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REPORTES\DEFENSA\ReporteDefensasMod_IIPendientesDeNotas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORTES\DEFENSA\ReporteDefensasMod_IIPendientesDeNotas.Designer.cs">
+      <DependentUpon>ReporteDefensasMod_IIPendientesDeNotas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REPORTES\DEFENSA\ReporteDefensasMod_IPendientesDeNotas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORTES\DEFENSA\ReporteDefensasMod_IPendientesDeNotas.Designer.cs">
+      <DependentUpon>ReporteDefensasMod_IPendientesDeNotas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REPORTES\DEFENSA\ReporteGraduadosPorFechas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORTES\DEFENSA\ReporteGraduadosPorFechas.Designer.cs">
+      <DependentUpon>ReporteGraduadosPorFechas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REPORTES\DEFENSA_II\CrDefensasHoyModII.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrDefensasHoyModII.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTES\DEFENSA_II\DefensasHoyModII.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORTES\DEFENSA_II\DefensasHoyModII.Designer.cs">
+      <DependentUpon>DefensasHoyModII.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REPORTES\MODALIDAD_II\CrEstudiantesSinCronograma.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrEstudiantesSinCronograma.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTES\MODALIDAD_II\CrRepEsSinDefModII.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrRepEsSinDefModII.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTES\MODALIDAD_II\RepEsSinDefModII.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORTES\MODALIDAD_II\RepEsSinDefModII.Designer.cs">
+      <DependentUpon>RepEsSinDefModII.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REPORTES\MODALIDAD_II\RepEstudiantesSinCronograma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORTES\MODALIDAD_II\RepEstudiantesSinCronograma.Designer.cs">
+      <DependentUpon>RepEstudiantesSinCronograma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REPORTES\MODALIDAD_II\RepModalidadIIPorTutor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORTES\MODALIDAD_II\RepModalidadIIPorTutor.Designer.cs">
+      <DependentUpon>RepModalidadIIPorTutor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REPORTES\MODALIDAD_II\PorTutor1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PorTutor.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTES\MODALIDAD_I\CrReporteAlumnosSinProgramarDefensas.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrReporteAlumnosSinProgramarDefensas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTES\MODALIDAD_I\CrTemas.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrTemas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTES\MODALIDAD_I\ReporteAlumnosSinProgramarDefensas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORTES\MODALIDAD_I\ReporteAlumnosSinProgramarDefensas.Designer.cs">
+      <DependentUpon>ReporteAlumnosSinProgramarDefensas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REPORTES\MODALIDAD_I\ReporteCortoModI.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReporteCortoModI.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTES\MODALIDAD_I\ReporteModalidad_I_I.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORTES\MODALIDAD_I\ReporteModalidad_I_I.Designer.cs">
+      <DependentUpon>ReporteModalidad_I_I.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REPORTES\MODALIDAD_I\ReporteTemas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORTES\MODALIDAD_I\ReporteTemas.Designer.cs">
+      <DependentUpon>ReporteTemas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TIPOMODALIDAD\ACTUALIZAR TIPO DE MODALIDAD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TIPOMODALIDAD\ACTUALIZAR TIPO DE MODALIDAD.designer.cs">
+      <DependentUpon>ACTUALIZAR TIPO DE MODALIDAD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TRIBUNALEXTERNO\InsertarTribunalExterno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TRIBUNALEXTERNO\InsertarTribunalExterno.Designer.cs">
+      <DependentUpon>InsertarTribunalExterno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TURNO\ActualizarTurno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TURNO\ActualizarTurno.Designer.cs">
+      <DependentUpon>ActualizarTurno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TURNO\InsertarTurno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TURNO\InsertarTurno.Designer.cs">
+      <DependentUpon>InsertarTurno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AlertasDelDia.resx">
+      <DependentUpon>AlertasDelDia.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AMPLIACION\Retrazar.resx">
+      <DependentUpon>Retrazar.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AULA\InsertarAula.resx">
+      <DependentUpon>InsertarAula.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AULA\ModificarAula.resx">
+      <DependentUpon>ModificarAula.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CARGO\InsertarCargo.resx">
+      <DependentUpon>InsertarCargo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CARGO\ModificarCargo.resx">
+      <DependentUpon>ModificarCargo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CARRERA\InsertarCarrera.resx">
+      <DependentUpon>InsertarCarrera.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CARRERA\ModificarCarrera.resx">
+      <DependentUpon>ModificarCarrera.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONFIGURACION\AgregarDireccion.resx">
+      <DependentUpon>AgregarDireccion.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRONOGRAMA\ActualizarCronograma.resx">
+      <DependentUpon>ActualizarCronograma.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRONOGRAMA\InsertarCronograma.resx">
+      <DependentUpon>InsertarCronograma.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DEFENSAS\Actualizar\ActualizarFecha.resx">
+      <DependentUpon>ActualizarFecha.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DEFENSAS\Actualizar\ActualizarNotas.resx">
+      <DependentUpon>ActualizarNotas.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DEFENSAS\Actualizar\ActualizarTribunales.resx">
+      <DependentUpon>ActualizarTribunales.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DEFENSAS\Actualizar\ActualizarTribunalPorCambioFechaDefensa.resx">
+      <DependentUpon>ActualizarTribunalPorCambioFechaDefensa.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DEFENSAS\InsertarDefensas.resx">
+      <DependentUpon>InsertarDefensas.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DEFENSA_III\ACTUALIZAR\FechaDefensaModIII.resx">
+      <DependentUpon>FechaDefensaModIII.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DEFENSA_III\ACTUALIZAR\FinalizarCambioFecha.resx">
+      <DependentUpon>FinalizarCambioFecha.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DEFENSA_III\ACTUALIZAR\Notas.resx">
+      <DependentUpon>Notas.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DEFENSA_III\ACTUALIZAR\TribunalesDefensaMinisterio.resx">
+      <DependentUpon>TribunalesDefensaMinisterio.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DEFENSA_III\InsertarDefensaIII.resx">
+      <DependentUpon>InsertarDefensaIII.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DEFENSA_II\Actualizar\ActualizarFecha.resx">
+      <DependentUpon>ActualizarFecha.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DEFENSA_II\Actualizar\ActualizarNotas.resx">
+      <DependentUpon>ActualizarNotas.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DEFENSA_II\Actualizar\ActualizarTribunales.resx">
+      <DependentUpon>ActualizarTribunales.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DEFENSA_II\Actualizar\ActualizarTribunalPorCambioFechaDefensa.resx">
+      <DependentUpon>ActualizarTribunalPorCambioFechaDefensa.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DEFENSA_II\Actualizar\InsertarDefesaModalidadII.resx">
+      <DependentUpon>InsertarDefesaModalidadII.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DOCENTE\InsertarDocente.resx">
+      <DependentUpon>InsertarDocente.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DOCENTE\ModificarDocente.resx">
+      <DependentUpon>ModificarDocente.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ESTUDIANTE\ACTUALIZAR_ESTUDIANTE\DatosCarrra.resx">
+      <DependentUpon>DatosCarrra.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ESTUDIANTE\ACTUALIZAR_ESTUDIANTE\DatosModalidad.resx">
+      <DependentUpon>DatosModalidad.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ESTUDIANTE\ACTUALIZAR_ESTUDIANTE\DatosPersonales.resx">
+      <DependentUpon>DatosPersonales.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ESTUDIANTE\ACTUALIZAR_ESTUDIANTE\SeleccionDeEstudiante.resx">
+      <DependentUpon>SeleccionDeEstudiante.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ESTUDIANTE\InsertarEstudiante.resx">
+      <DependentUpon>InsertarEstudiante.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ESTUDIANTE\InsertarEstudianteNuevaCarrera.resx">
+      <DependentUpon>InsertarEstudianteNuevaCarrera.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ESTUDIANTE\InsertarEstudianteRepitente.resx">
+      <DependentUpon>InsertarEstudianteRepitente.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FACULTAD\ActualizarFacultad.resx">
+      <DependentUpon>ActualizarFacultad.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FACULTAD\InsertarFacultad.resx">
+      <DependentUpon>InsertarFacultad.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GRUPO\InsertarGrupo.resx">
+      <DependentUpon>InsertarGrupo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GRUPO\ModificarGrupo.resx">
+      <DependentUpon>ModificarGrupo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GRUPO\MODIFICAR\DatosDelGrupo.resx">
+      <DependentUpon>DatosDelGrupo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GRUPO\MODIFICAR\ModificarDocente.resx">
+      <DependentUpon>ModificarDocente.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MODALIDAD_II\ActualizarModalidadII.resx">
+      <DependentUpon>ActualizarModalidadII.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MODALIDAD_II\RegistrarModalidadII.resx">
+      <DependentUpon>RegistrarModalidadII.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MODALIDAD_OLVIDADA\InsertarModalidadOlvidada.resx">
+      <DependentUpon>InsertarModalidadOlvidada.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\AULA\CrAula.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrAula.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\AULA\ReporteAula.resx">
+      <DependentUpon>ReporteAula.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\CRONOGRAMA\CrPresentacionCronogramaPorFecha.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrPresentacionCronogramaPorFecha.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\CRONOGRAMA\RepPresentacionCronogramaPorFecha.resx">
+      <DependentUpon>RepPresentacionCronogramaPorFecha.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\DEFENSA\CrDefensaModIIPendientesDeNotas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrDefensaModIIPendientesDeNotas.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\DEFENSA\CrDefensasModIPendientesDeNotas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrDefensasModIPendientesDeNotas.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\DEFENSA\CrDefensasParaHoy.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrDefensasParaHoy.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\DEFENSA\CrHabilitadosModalidadII.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrHabilitadosModalidadII.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\DEFENSA\CrHabilitadosSegundaInstancia.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrHabilitadosSegundaInstancia.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\DEFENSA\CrReporteGraduadosPorFechas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrReporteGraduadosPorFechas.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\DEFENSA\DefensasParaHoy.resx">
+      <DependentUpon>DefensasParaHoy.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\DEFENSA\HabilitadosModalidadII.resx">
+      <DependentUpon>HabilitadosModalidadII.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\DEFENSA\HabilitadosSegundaInstancia.resx">
+      <DependentUpon>HabilitadosSegundaInstancia.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\DEFENSA\ReporteDefensasMod_IIPendientesDeNotas.resx">
+      <DependentUpon>ReporteDefensasMod_IIPendientesDeNotas.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\DEFENSA\ReporteDefensasMod_IPendientesDeNotas.resx">
+      <DependentUpon>ReporteDefensasMod_IPendientesDeNotas.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\DEFENSA\ReporteGraduadosPorFechas.resx">
+      <DependentUpon>ReporteGraduadosPorFechas.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\DEFENSA_II\CrDefensasHoyModII.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrDefensasHoyModII.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\DEFENSA_II\DefensasHoyModII.resx">
+      <DependentUpon>DefensasHoyModII.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\MODALIDAD_II\CrEstudiantesSinCronograma.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrEstudiantesSinCronograma.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\MODALIDAD_II\CrRepEsSinDefModII.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrRepEsSinDefModII.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\MODALIDAD_II\RepEsSinDefModII.resx">
+      <DependentUpon>RepEsSinDefModII.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\MODALIDAD_II\RepEstudiantesSinCronograma.resx">
+      <DependentUpon>RepEstudiantesSinCronograma.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\MODALIDAD_II\RepModalidadIIPorTutor.resx">
+      <DependentUpon>RepModalidadIIPorTutor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\MODALIDAD_II\PorTutor.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PorTutor1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\MODALIDAD_I\CrReporteAlumnosSinProgramarDefensas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrReporteAlumnosSinProgramarDefensas.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\MODALIDAD_I\CrTemas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrTemas.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\MODALIDAD_I\ReporteAlumnosSinProgramarDefensas.resx">
+      <DependentUpon>ReporteAlumnosSinProgramarDefensas.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\MODALIDAD_I\ReporteCortoModI.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReporteCortoModI.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\MODALIDAD_I\ReporteModalidad_I_I.resx">
+      <DependentUpon>ReporteModalidad_I_I.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTES\MODALIDAD_I\ReporteTemas.resx">
+      <DependentUpon>ReporteTemas.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TIPOMODALIDAD\ACTUALIZAR TIPO DE MODALIDAD.resx">
+      <DependentUpon>ACTUALIZAR TIPO DE MODALIDAD.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TIPOMODALIDAD\InsertarTipoModalidad.resx">
+      <DependentUpon>InsertarTipoModalidad.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TRIBUNALEXTERNO\InsertarTribunalExterno.resx">
+      <DependentUpon>InsertarTribunalExterno.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TURNO\ActualizarTurno.resx">
+      <DependentUpon>ActualizarTurno.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TURNO\InsertarTurno.resx">
+      <DependentUpon>InsertarTurno.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USUARIOS\InsertarUsuario.resx">
+      <DependentUpon>InsertarUsuario.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USUARIOS\MODIFICAR\Contraseña.resx">
+      <DependentUpon>Contraseña.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USUARIOS\MODIFICAR\DatosPersonales.resx">
+      <DependentUpon>DatosPersonales.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="TIPOMODALIDAD\InsertarTipoModalidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TIPOMODALIDAD\InsertarTipoModalidad.Designer.cs">
+      <DependentUpon>InsertarTipoModalidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USUARIOS\InsertarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="USUARIOS\InsertarUsuario.Designer.cs">
+      <DependentUpon>InsertarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USUARIOS\MODIFICAR\Contraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="USUARIOS\MODIFICAR\Contraseña.Designer.cs">
+      <DependentUpon>Contraseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USUARIOS\MODIFICAR\DatosPersonales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="USUARIOS\MODIFICAR\DatosPersonales.Designer.cs">
+      <DependentUpon>DatosPersonales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Validaciones.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BSS\BSS.csproj">
+      <Project>{12211AA5-B363-4905-B4AF-7AE3269906DF}</Project>
+      <Name>BSS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{9B540C8F-3FED-4AD5-A8D4-C3797C71830E}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGIN.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="REPORTES\DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="REPORTES\DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="REPORTES\DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\formulario.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\servidor.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

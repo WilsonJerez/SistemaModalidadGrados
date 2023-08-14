@@ -1,0 +1,165 @@
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES\BSS\bin\Debug\BSS.dll
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES\BSS\bin\Debug\BSS.pdb
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES\BSS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES\BSS\obj\Debug\BSS.dll
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES\BSS\obj\Debug\BSS.pdb
+H:\practica limpio\MODALIDADES_SYS\BSS\bin\Debug\BSS.dll
+H:\practica limpio\MODALIDADES_SYS\BSS\bin\Debug\BSS.pdb
+H:\practica limpio\MODALIDADES_SYS\BSS\bin\Debug\DAL.dll
+H:\practica limpio\MODALIDADES_SYS\BSS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+H:\practica limpio\MODALIDADES_SYS\BSS\bin\Debug\DAL.pdb
+H:\practica limpio\MODALIDADES_SYS\BSS\obj\Debug\ResolveAssemblyReference.cache
+H:\practica limpio\MODALIDADES_SYS\BSS\obj\Debug\BSS.dll
+H:\practica limpio\MODALIDADES_SYS\BSS\obj\Debug\BSS.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\BSS\bin\Debug\BSS.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\BSS\bin\Debug\BSS.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\BSS\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\BSS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\BSS\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\BSS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\BSS\obj\Debug\BSS.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\BSS\obj\Debug\BSS.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\BSS\bin\Debug\BSS.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\BSS\bin\Debug\BSS.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\BSS\bin\Debug\DAL.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\BSS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\BSS\bin\Debug\DAL.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\BSS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\BSS\obj\Debug\BSS.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\BSS\obj\Debug\BSS.pdb
+F:\MODALIDADES_SYS\BSS\bin\Debug\BSS.dll
+F:\MODALIDADES_SYS\BSS\bin\Debug\BSS.pdb
+F:\MODALIDADES_SYS\BSS\bin\Debug\DAL.dll
+F:\MODALIDADES_SYS\BSS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\MODALIDADES_SYS\BSS\bin\Debug\DAL.pdb
+F:\MODALIDADES_SYS\BSS\obj\Debug\ResolveAssemblyReference.cache
+F:\MODALIDADES_SYS\BSS\obj\Debug\BSS.dll
+F:\MODALIDADES_SYS\BSS\obj\Debug\BSS.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\BSS\bin\Debug\BSS.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\BSS\bin\Debug\BSS.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\BSS\bin\Debug\DAL.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\BSS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\BSS\bin\Debug\DAL.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\BSS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\BSS\obj\Debug\BSS.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\BSS\obj\Debug\BSS.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\BSS\bin\Debug\BSS.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\BSS\bin\Debug\BSS.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\BSS\bin\Debug\DAL.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\BSS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\BSS\bin\Debug\DAL.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\BSS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\BSS\obj\Debug\BSS.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\BSS\obj\Debug\BSS.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\BSS\bin\Debug\BSS.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\BSS\bin\Debug\BSS.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\BSS\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\BSS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\BSS\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\BSS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\BSS\obj\Debug\BSS.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\BSS\obj\Debug\BSS.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\BSS\bin\Debug\BSS.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\BSS\bin\Debug\BSS.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\BSS\bin\Debug\DAL.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\BSS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\BSS\bin\Debug\DAL.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\BSS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\BSS\obj\Debug\BSS.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\BSS\obj\Debug\BSS.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\BSS\bin\Debug\BSS.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\BSS\bin\Debug\BSS.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\BSS\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\BSS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\BSS\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\BSS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\BSS\obj\Debug\BSS.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\BSS\obj\Debug\BSS.pdb
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\BSS\bin\Debug\BSS.dll
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\BSS\bin\Debug\BSS.pdb
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\BSS\bin\Debug\DAL.dll
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\BSS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\BSS\bin\Debug\DAL.pdb
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\BSS\obj\Debug\ResolveAssemblyReference.cache
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\BSS\obj\Debug\BSS.dll
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\BSS\obj\Debug\BSS.pdb
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\BSS\bin\Debug\BSS.dll
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\BSS\bin\Debug\BSS.pdb
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\BSS\bin\Debug\DAL.dll
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\BSS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\BSS\bin\Debug\DAL.pdb
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\BSS\obj\Debug\ResolveAssemblyReference.cache
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\BSS\obj\Debug\BSS.dll
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\BSS\obj\Debug\BSS.pdb
+C:\Users\HP\Desktop\MODALIDADES_SYS\BSS\bin\Debug\BSS.dll
+C:\Users\HP\Desktop\MODALIDADES_SYS\BSS\bin\Debug\BSS.pdb
+C:\Users\HP\Desktop\MODALIDADES_SYS\BSS\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\MODALIDADES_SYS\BSS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\HP\Desktop\MODALIDADES_SYS\BSS\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\MODALIDADES_SYS\BSS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\MODALIDADES_SYS\BSS\obj\Debug\BSS.dll
+C:\Users\HP\Desktop\MODALIDADES_SYS\BSS\obj\Debug\BSS.pdb
+I:\Andrea\MODALIDADES_SYS\BSS\obj\Debug\ResolveAssemblyReference.cache
+I:\Andrea\MODALIDADES_SYS\BSS\obj\Debug\BSS.dll
+I:\Andrea\MODALIDADES_SYS\BSS\bin\Debug\BSS.dll
+I:\Andrea\MODALIDADES_SYS\BSS\bin\Debug\BSS.pdb
+I:\Andrea\MODALIDADES_SYS\BSS\bin\Debug\DAL.dll
+I:\Andrea\MODALIDADES_SYS\BSS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+I:\Andrea\MODALIDADES_SYS\BSS\bin\Debug\DAL.pdb
+I:\Andrea\MODALIDADES_SYS\BSS\obj\Debug\BSS.pdb
+G:\MODALIDADES_SYS\BSS\obj\Debug\ResolveAssemblyReference.cache
+G:\MODALIDADES_SYS\BSS\obj\Debug\BSS.dll
+G:\MODALIDADES_SYS\BSS\bin\Debug\BSS.dll
+G:\MODALIDADES_SYS\BSS\bin\Debug\BSS.pdb
+G:\MODALIDADES_SYS\BSS\bin\Debug\DAL.dll
+G:\MODALIDADES_SYS\BSS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+G:\MODALIDADES_SYS\BSS\bin\Debug\DAL.pdb
+G:\MODALIDADES_SYS\BSS\obj\Debug\BSS.pdb
+H:\MODALIDADES_SYS\BSS\bin\Debug\BSS.dll
+H:\MODALIDADES_SYS\BSS\bin\Debug\BSS.pdb
+H:\MODALIDADES_SYS\BSS\bin\Debug\DAL.dll
+H:\MODALIDADES_SYS\BSS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+H:\MODALIDADES_SYS\BSS\bin\Debug\DAL.pdb
+H:\MODALIDADES_SYS\BSS\obj\Debug\ResolveAssemblyReference.cache
+H:\MODALIDADES_SYS\BSS\obj\Debug\BSS.dll
+H:\MODALIDADES_SYS\BSS\obj\Debug\BSS.pdb
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\BSS\bin\Debug\BSS.dll
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\BSS\bin\Debug\BSS.pdb
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\BSS\bin\Debug\DAL.dll
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\BSS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\BSS\bin\Debug\DAL.pdb
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\BSS\obj\Debug\ResolveAssemblyReference.cache
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\BSS\obj\Debug\BSS.dll
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\BSS\obj\Debug\BSS.pdb
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\BSS\bin\Debug\BSS.dll
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\BSS\bin\Debug\BSS.pdb
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\BSS\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\BSS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\BSS\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\BSS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\BSS\obj\Debug\BSS.dll
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\BSS\obj\Debug\BSS.pdb
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\BSS\bin\Debug\BSS.dll
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\BSS\bin\Debug\BSS.pdb
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\BSS\bin\Debug\DAL.dll
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\BSS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\BSS\bin\Debug\DAL.pdb
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\BSS\obj\Debug\ResolveAssemblyReference.cache
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\BSS\obj\Debug\BSS.dll
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\BSS\obj\Debug\BSS.pdb
+D:\escritorio\MODALIDADES_SYS\BSS\bin\Debug\BSS.dll
+D:\escritorio\MODALIDADES_SYS\BSS\bin\Debug\BSS.pdb
+D:\escritorio\MODALIDADES_SYS\BSS\bin\Debug\DAL.dll
+D:\escritorio\MODALIDADES_SYS\BSS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\escritorio\MODALIDADES_SYS\BSS\bin\Debug\DAL.pdb
+D:\escritorio\MODALIDADES_SYS\BSS\obj\Debug\ResolveAssemblyReference.cache
+D:\escritorio\MODALIDADES_SYS\BSS\obj\Debug\BSS.dll
+D:\escritorio\MODALIDADES_SYS\BSS\obj\Debug\BSS.pdb
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\BSS\bin\Debug\BSS.dll
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\BSS\bin\Debug\BSS.pdb
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\BSS\bin\Debug\DAL.dll
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\BSS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\BSS\bin\Debug\DAL.pdb
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\BSS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\BSS\obj\Debug\BSS.dll
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\BSS\obj\Debug\BSS.pdb

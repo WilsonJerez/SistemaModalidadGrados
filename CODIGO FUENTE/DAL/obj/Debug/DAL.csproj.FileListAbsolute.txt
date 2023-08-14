@@ -1,0 +1,126 @@
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES\DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES\DAL\obj\Debug\DAL.pdb
+H:\practica limpio\MODALIDADES_SYS\DAL\bin\Debug\DAL.dll
+H:\practica limpio\MODALIDADES_SYS\DAL\bin\Debug\DAL.pdb
+H:\practica limpio\MODALIDADES_SYS\DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+H:\practica limpio\MODALIDADES_SYS\DAL\obj\Debug\ResolveAssemblyReference.cache
+H:\practica limpio\MODALIDADES_SYS\DAL\obj\Debug\DAL.dll
+H:\practica limpio\MODALIDADES_SYS\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\DAL\obj\Debug\DAL.pdb
+F:\MODALIDADES_SYS\DAL\bin\Debug\DAL.dll
+F:\MODALIDADES_SYS\DAL\bin\Debug\DAL.pdb
+F:\MODALIDADES_SYS\DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\MODALIDADES_SYS\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\MODALIDADES_SYS\DAL\obj\Debug\DAL.dll
+F:\MODALIDADES_SYS\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\DAL\obj\Debug\DAL.pdb
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\DAL\bin\Debug\DAL.dll
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\DAL\bin\Debug\DAL.pdb
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\DAL\obj\Debug\ResolveAssemblyReference.cache
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\DAL\obj\Debug\DAL.dll
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\DAL\obj\Debug\DAL.pdb
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\DAL\bin\Debug\DAL.dll
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\DAL\bin\Debug\DAL.pdb
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\DAL\obj\Debug\ResolveAssemblyReference.cache
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\DAL\obj\Debug\DAL.dll
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\DAL\obj\Debug\DAL.pdb
+C:\Users\HP\Desktop\MODALIDADES_SYS\DAL\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\MODALIDADES_SYS\DAL\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\MODALIDADES_SYS\DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\HP\Desktop\MODALIDADES_SYS\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\MODALIDADES_SYS\DAL\obj\Debug\DAL.dll
+C:\Users\HP\Desktop\MODALIDADES_SYS\DAL\obj\Debug\DAL.pdb
+I:\Andrea\MODALIDADES_SYS\DAL\bin\Debug\DAL.dll
+I:\Andrea\MODALIDADES_SYS\DAL\bin\Debug\DAL.pdb
+I:\Andrea\MODALIDADES_SYS\DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+I:\Andrea\MODALIDADES_SYS\DAL\obj\Debug\ResolveAssemblyReference.cache
+I:\Andrea\MODALIDADES_SYS\DAL\obj\Debug\DAL.dll
+I:\Andrea\MODALIDADES_SYS\DAL\obj\Debug\DAL.pdb
+G:\MODALIDADES_SYS\DAL\obj\Debug\ResolveAssemblyReference.cache
+G:\MODALIDADES_SYS\DAL\obj\Debug\DAL.dll
+G:\MODALIDADES_SYS\DAL\bin\Debug\DAL.dll
+G:\MODALIDADES_SYS\DAL\bin\Debug\DAL.pdb
+G:\MODALIDADES_SYS\DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+G:\MODALIDADES_SYS\DAL\obj\Debug\DAL.pdb
+H:\MODALIDADES_SYS\DAL\bin\Debug\DAL.dll
+H:\MODALIDADES_SYS\DAL\bin\Debug\DAL.pdb
+H:\MODALIDADES_SYS\DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+H:\MODALIDADES_SYS\DAL\obj\Debug\ResolveAssemblyReference.cache
+H:\MODALIDADES_SYS\DAL\obj\Debug\DAL.dll
+H:\MODALIDADES_SYS\DAL\obj\Debug\DAL.pdb
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\DAL\bin\Debug\DAL.dll
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\DAL\bin\Debug\DAL.pdb
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\DAL\obj\Debug\ResolveAssemblyReference.cache
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\DAL\obj\Debug\DAL.dll
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\DAL\obj\Debug\DAL.pdb
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\DAL\bin\Debug\DAL.dll
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\DAL\bin\Debug\DAL.pdb
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\DAL\obj\Debug\DAL.dll
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\DAL\obj\Debug\DAL.pdb
+D:\escritorio\MODALIDADES_SYS\DAL\bin\Debug\DAL.dll
+D:\escritorio\MODALIDADES_SYS\DAL\bin\Debug\DAL.pdb
+D:\escritorio\MODALIDADES_SYS\DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\escritorio\MODALIDADES_SYS\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\escritorio\MODALIDADES_SYS\DAL\obj\Debug\DAL.dll
+D:\escritorio\MODALIDADES_SYS\DAL\obj\Debug\DAL.pdb
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\DAL\bin\Debug\DAL.dll
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\DAL\bin\Debug\DAL.pdb
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\DAL\obj\Debug\DAL.dll
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\DAL\obj\Debug\DAL.pdb

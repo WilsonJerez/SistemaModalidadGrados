@@ -1,0 +1,1092 @@
+H:\practica limpio\MODALIDADES_SYS\VISTAS\obj\Debug\ResolveAssemblyReference.cache
+H:\practica limpio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Form1.resources
+H:\practica limpio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Properties.Resources.resources
+H:\practica limpio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.csproj.GenerateResource.Cache
+H:\practica limpio\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.exe
+H:\practica limpio\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.pdb
+H:\practica limpio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.exe
+H:\practica limpio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.pdb
+H:\practica limpio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudiante.resources
+H:\practica limpio\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.dll
+H:\practica limpio\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.dll
+H:\practica limpio\MODALIDADES_SYS\VISTAS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+H:\practica limpio\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.pdb
+H:\practica limpio\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.exe
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.exe
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\VISTAS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\VISTAS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudiante.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.InsertarFacultad.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.InsertarCarrera.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.InsertarTipoModalidad.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.InsertarGrupo.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.exe
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.exe
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\VISTAS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.InsertarCarrera.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudiante.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.InsertarFacultad.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Form1.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.InsertarGrupo.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Properties.Resources.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.InsertarTipoModalidad.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.csproj.GenerateResource.Cache
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.InsertarAula.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TURNO.InsertarTurno.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.InsertarCargo.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.InsertarDocente.resources
+F:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.exe
+F:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.pdb
+F:\MODALIDADES_SYS\VISTAS\obj\Debug\ResolveAssemblyReference.cache
+F:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.InsertarAula.resources
+F:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.InsertarCargo.resources
+F:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.InsertarCarrera.resources
+F:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.InsertarDocente.resources
+F:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudiante.resources
+F:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.InsertarFacultad.resources
+F:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Form1.resources
+F:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.InsertarGrupo.resources
+F:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Properties.Resources.resources
+F:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.InsertarTipoModalidad.resources
+F:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TURNO.InsertarTurno.resources
+F:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.csproj.GenerateResource.Cache
+F:\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.exe
+F:\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.pdb
+F:\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.dll
+F:\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.dll
+F:\MODALIDADES_SYS\VISTAS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.pdb
+F:\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.pdb
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.exe
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.InsertarAula.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.InsertarCargo.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.InsertarDocente.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TURNO.InsertarTurno.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\VISTAS\bin\Debug\VISTAS.exe
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\VISTAS\bin\Debug\VISTAS.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\VISTAS\bin\Debug\BSS.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\VISTAS\bin\Debug\DAL.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\VISTAS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\VISTAS\bin\Debug\BSS.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\VISTAS\bin\Debug\DAL.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\VISTAS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\VISTAS\obj\Debug\VISTAS.AULA.InsertarAula.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\VISTAS\obj\Debug\VISTAS.CARGO.InsertarCargo.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\VISTAS\obj\Debug\VISTAS.CARRERA.InsertarCarrera.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\VISTAS\obj\Debug\VISTAS.DOCENTE.InsertarDocente.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudiante.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\VISTAS\obj\Debug\VISTAS.FACULTAD.InsertarFacultad.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\VISTAS\obj\Debug\VISTAS.Form1.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\VISTAS\obj\Debug\VISTAS.GRUPO.InsertarGrupo.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\VISTAS\obj\Debug\VISTAS.Properties.Resources.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.InsertarTipoModalidad.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\VISTAS\obj\Debug\VISTAS.TURNO.InsertarTurno.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\VISTAS\obj\Debug\VISTAS.csproj.GenerateResource.Cache
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\VISTAS\obj\Debug\VISTAS.exe
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYSR\VISTAS\obj\Debug\VISTAS.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.InsertarDefensas.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.InsertarDefensas.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.exe
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\VISTAS\bin\Debug\VISTAS.exe
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\VISTAS\bin\Debug\VISTAS.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\VISTAS\bin\Debug\BSS.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\VISTAS\bin\Debug\DAL.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\VISTAS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\VISTAS\bin\Debug\BSS.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\VISTAS\bin\Debug\DAL.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.AULA.InsertarAula.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.CARGO.InsertarCargo.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.CARRERA.InsertarCarrera.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.DEFENSAS.InsertarDefensas.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.DOCENTE.InsertarDocente.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudiante.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.FACULTAD.InsertarFacultad.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.Form1.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.GRUPO.InsertarGrupo.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.Properties.Resources.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.InsertarTipoModalidad.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.TURNO.InsertarTurno.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.csproj.GenerateResource.Cache
+C:\Documents and Settings\All Users\Documentos\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.exe
+C:\Documents and Settings\All Users\Documentos\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.RegistrarModalidadII.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.exe
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\bin\Debug\VISTAS.exe
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\bin\Debug\VISTAS.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\bin\Debug\BSS.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\bin\Debug\BSS.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.AULA.InsertarAula.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.CARGO.InsertarCargo.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.CARRERA.InsertarCarrera.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.DEFENSAS.InsertarDefensas.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.DOCENTE.InsertarDocente.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudiante.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.FACULTAD.InsertarFacultad.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.GRUPO.InsertarGrupo.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.RegistrarModalidadII.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.InsertarTipoModalidad.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.TURNO.InsertarTurno.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.csproj.GenerateResource.Cache
+\\192.168.200.10\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.exe
+\\192.168.200.10\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.pdb
+\\192.168.200.10\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\bin\Debug\VISTAS.exe
+\\192.168.200.10\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\bin\Debug\VISTAS.pdb
+\\192.168.200.10\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\bin\Debug\BSS.dll
+\\192.168.200.10\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\bin\Debug\DAL.dll
+\\192.168.200.10\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+\\192.168.200.10\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\bin\Debug\BSS.pdb
+\\192.168.200.10\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\bin\Debug\DAL.pdb
+\\192.168.200.10\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\ResolveAssemblyReference.cache
+\\192.168.200.10\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.AULA.InsertarAula.resources
+\\192.168.200.10\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.CARGO.InsertarCargo.resources
+\\192.168.200.10\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.CARRERA.InsertarCarrera.resources
+\\192.168.200.10\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.DEFENSAS.InsertarDefensas.resources
+\\192.168.200.10\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.DOCENTE.InsertarDocente.resources
+\\192.168.200.10\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudiante.resources
+\\192.168.200.10\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.FACULTAD.InsertarFacultad.resources
+\\192.168.200.10\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.Form1.resources
+\\192.168.200.10\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.GRUPO.InsertarGrupo.resources
+\\192.168.200.10\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.RegistrarModalidadII.resources
+\\192.168.200.10\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.Properties.Resources.resources
+\\192.168.200.10\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.InsertarTipoModalidad.resources
+\\192.168.200.10\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.TURNO.InsertarTurno.resources
+\\192.168.200.10\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.InsertarCronograma.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 07-06-2011\VISTAS\obj\Debug\VISTAS.DEFENSA_II.InsertarDefesaModalidadII.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.exe
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\bin\Debug\VISTAS.exe
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\bin\Debug\VISTAS.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\bin\Debug\BSS.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\bin\Debug\DAL.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\bin\Debug\BSS.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\bin\Debug\DAL.pdb
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.AULA.InsertarAula.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.CARGO.InsertarCargo.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.CARRERA.InsertarCarrera.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.InsertarCronograma.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.DEFENSAS.InsertarDefensas.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.DEFENSA_II.InsertarDefesaModalidadII.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.DOCENTE.InsertarDocente.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudiante.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.FACULTAD.InsertarFacultad.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.Form1.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.GRUPO.InsertarGrupo.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.RegistrarModalidadII.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.Properties.Resources.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.InsertarTipoModalidad.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.TURNO.InsertarTurno.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.csproj.GenerateResource.Cache
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.AULA.ModificarAula.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.CARGO.ModificarCargo.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.CARRERA.ModificarCarrera.resources
+C:\Documents and Settings\Andrea\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.login.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.exe
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.exe
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.AULA.InsertarAula.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.AULA.ModificarAula.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.CARGO.InsertarCargo.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.CARGO.ModificarCargo.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.CARRERA.InsertarCarrera.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.CARRERA.ModificarCarrera.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.CONFIGURACION.AgregarDireccion.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.InsertarCronograma.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.DEFENSAS.InsertarDefensas.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.DEFENSA_II.InsertarDefesaModalidadII.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.DOCENTE.InsertarDocente.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudiante.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.FACULTAD.InsertarFacultad.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.GRUPO.InsertarGrupo.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.login.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.RegistrarModalidadII.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.InsertarTipoModalidad.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.TURNO.InsertarTurno.resources
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\obj\Debug\VISTAS.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\bin\Debug\VISTAS.exe
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\bin\Debug\VISTAS.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\bin\Debug\BSS.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\bin\Debug\BSS.pdb
+C:\Documents and Settings\Administrador\Escritorio\practica limpio\MODALIDADES_SYS 17-06-2011\VISTAS\bin\Debug\DAL.pdb
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.exe
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.pdb
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\ResolveAssemblyReference.cache
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.InsertarAula.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.ModificarAula.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.InsertarCargo.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.ModificarCargo.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.InsertarCarrera.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.ModificarCarrera.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CONFIGURACION.AgregarDireccion.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.ActualizarCronograma.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.InsertarCronograma.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarFecha.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarNotas.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarTribunales.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarTribunalPorCambioFechaDefensa.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.InsertarDefensas.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarFecha.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarNotas.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarTribunales.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarTribunalPorCambioFechaDefensa.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.InsertarDefesaModalidadII.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.InsertarDocente.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.ModificarDocente.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudiante.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ModificarEstudiante.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.ActualizarFacultad.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.InsertarFacultad.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Form1.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.InsertarGrupo.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.ModificarGrupo.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.login.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.RegistrarModalidadII.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Properties.Resources.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.InsertarTipoModalidad.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TURNO.InsertarTurno.resources
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.csproj.GenerateResource.Cache
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.exe
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.pdb
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.dll
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.dll
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.pdb
+H:\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.pdb
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.exe
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.pdb
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\ResolveAssemblyReference.cache
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.InsertarAula.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.ModificarAula.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.InsertarCargo.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.ModificarCargo.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.InsertarCarrera.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.ModificarCarrera.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CONFIGURACION.AgregarDireccion.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.ActualizarCronograma.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.InsertarCronograma.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarFecha.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarNotas.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarTribunales.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarTribunalPorCambioFechaDefensa.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.InsertarDefensas.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarFecha.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarNotas.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarTribunales.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarTribunalPorCambioFechaDefensa.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.InsertarDefesaModalidadII.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.InsertarDocente.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.ModificarDocente.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudiante.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ModificarEstudiante.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.ActualizarFacultad.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.InsertarFacultad.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Form1.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.InsertarGrupo.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.ModificarGrupo.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.login.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.RegistrarModalidadII.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Properties.Resources.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.InsertarTipoModalidad.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TURNO.InsertarTurno.resources
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.csproj.GenerateResource.Cache
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.exe
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.pdb
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.dll
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.dll
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.pdb
+H:\Andrea\CLAUDIA CARDOZO S\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.exe
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.pdb
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.InsertarAula.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.ModificarAula.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.InsertarCargo.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.ModificarCargo.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.InsertarCarrera.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.ModificarCarrera.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CONFIGURACION.AgregarDireccion.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.ActualizarCronograma.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.InsertarCronograma.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarFecha.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarNotas.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarTribunales.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarTribunalPorCambioFechaDefensa.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.InsertarDefensas.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarFecha.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarNotas.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarTribunales.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarTribunalPorCambioFechaDefensa.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.InsertarDefesaModalidadII.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.InsertarDocente.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.ModificarDocente.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudiante.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.ActualizarFacultad.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.InsertarFacultad.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Form1.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.InsertarGrupo.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.ModificarGrupo.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.login.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.RegistrarModalidadII.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Properties.Resources.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.InsertarTipoModalidad.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TURNO.InsertarTurno.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.exe
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.pdb
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.dll
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.pdb
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.pdb
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.exe
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.pdb
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\ResolveAssemblyReference.cache
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.InsertarAula.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.ModificarAula.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.InsertarCargo.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.ModificarCargo.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.InsertarCarrera.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.ModificarCarrera.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CONFIGURACION.AgregarDireccion.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.ActualizarCronograma.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.InsertarCronograma.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarFecha.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarNotas.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarTribunales.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarTribunalPorCambioFechaDefensa.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.InsertarDefensas.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarFecha.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarNotas.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarTribunales.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarTribunalPorCambioFechaDefensa.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.InsertarDefesaModalidadII.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.InsertarDocente.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.ModificarDocente.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudiante.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ModificarEstudiante.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.ActualizarFacultad.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.InsertarFacultad.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Form1.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.InsertarGrupo.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.ModificarGrupo.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.login.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.ActualizarModalidadII.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.RegistrarModalidadII.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Properties.Resources.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.InsertarTipoModalidad.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TURNO.InsertarTurno.resources
+I:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.csproj.GenerateResource.Cache
+I:\Andrea\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.exe
+I:\Andrea\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.pdb
+I:\Andrea\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.dll
+I:\Andrea\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.dll
+I:\Andrea\MODALIDADES_SYS\VISTAS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+I:\Andrea\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.pdb
+I:\Andrea\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.ActualizarModalidadII.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.exe
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.pdb
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\ResolveAssemblyReference.cache
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AlertasDelDia.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.InsertarAula.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.ModificarAula.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.InsertarCargo.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.ModificarCargo.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.InsertarCarrera.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.ModificarCarrera.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CONFIGURACION.AgregarDireccion.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.ActualizarCronograma.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.InsertarCronograma.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarFecha.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarNotas.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarTribunales.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarTribunalPorCambioFechaDefensa.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.InsertarDefensas.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarFecha.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarNotas.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarTribunales.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarTribunalPorCambioFechaDefensa.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.InsertarDefesaModalidadII.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.InsertarDocente.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.ModificarDocente.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudiante.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ModificarEstudiante.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.ActualizarFacultad.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.InsertarFacultad.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Form1.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.InsertarGrupo.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.ModificarGrupo.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.login.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.ActualizarModalidadII.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.RegistrarModalidadII.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Properties.Resources.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_I.Modalidad_IPorGrupo.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.ACTUALIZAR.ACTUALIZAR_TIPO_DE_MODALIDAD.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.InsertarTipoModalidad.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TURNO.InsertarTurno.resources
+H:\Andrea\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.csproj.GenerateResource.Cache
+H:\Andrea\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.exe
+H:\Andrea\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.pdb
+H:\Andrea\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.dll
+H:\Andrea\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.dll
+H:\Andrea\MODALIDADES_SYS\VISTAS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+H:\Andrea\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.pdb
+H:\Andrea\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.ACTUALIZAR.ACTUALIZAR_TIPO_DE_MODALIDAD.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.exe
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.pdb
+G:\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.exe
+G:\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.pdb
+G:\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.dll
+G:\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.dll
+G:\MODALIDADES_SYS\VISTAS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+G:\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.pdb
+G:\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.pdb
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\ResolveAssemblyReference.cache
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AlertasDelDia.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.InsertarAula.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.ModificarAula.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.InsertarCargo.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.ModificarCargo.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.InsertarCarrera.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.ModificarCarrera.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CONFIGURACION.AgregarDireccion.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.ActualizarCronograma.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.InsertarCronograma.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarFecha.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarNotas.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarTribunales.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarTribunalPorCambioFechaDefensa.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.InsertarDefensas.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarFecha.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarNotas.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarTribunales.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarTribunalPorCambioFechaDefensa.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.InsertarDefesaModalidadII.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.InsertarDocente.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.ModificarDocente.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudiante.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ModificarEstudiante.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.ActualizarFacultad.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.InsertarFacultad.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Form1.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.InsertarGrupo.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.ModificarGrupo.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.login.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.ActualizarModalidadII.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.RegistrarModalidadII.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Properties.Resources.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.ACTUALIZAR.ACTUALIZAR_TIPO_DE_MODALIDAD.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.InsertarTipoModalidad.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TURNO.ActualizarTurno.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TURNO.InsertarTurno.resources
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.csproj.GenerateResource.Cache
+G:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.FACULTAD.ReporteFacultad.resources
+H:\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.exe
+H:\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.pdb
+H:\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.dll
+H:\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.dll
+H:\MODALIDADES_SYS\VISTAS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+H:\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.pdb
+H:\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.pdb
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\ResolveAssemblyReference.cache
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.LklAlumnos.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.InsertarAula.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.ModificarAula.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.InsertarCargo.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.ModificarCargo.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.InsertarCarrera.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.ModificarCarrera.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CONFIGURACION.AgregarDireccion.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.ActualizarCronograma.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.InsertarCronograma.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarFecha.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarNotas.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarTribunales.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarTribunalPorCambioFechaDefensa.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.InsertarDefensas.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.InsertarDefensaIII.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarFecha.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarNotas.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarTribunales.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarTribunalPorCambioFechaDefensa.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.InsertarDefesaModalidadII.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.InsertarDocente.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.ModificarDocente.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.DatosCarrra.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.DatosModalidad.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.DatosPersonales.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.SeleccionDeEstudiante.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudiante.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudianteNuevaCarrera.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudianteRepitente.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.ActualizarFacultad.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.InsertarFacultad.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Form1.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.InsertarGrupo.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.ModificarGrupo.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.login.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.ActualizarModalidadII.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.RegistrarModalidadII.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Properties.Resources.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.AULA.ReporteAula.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.CRONOGRAMA.RepPresentacionCronogramaPorFecha.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.DefensasParaHoy.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.HabilitadosModalidadII.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.HabilitadosSegundaInstancia.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.ReporteDefensasMod_IIPendientesDeNotas.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.ReporteDefensasMod_IPendientesDeNotas.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.ReporteGraduadosPorFechas.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA_II.DefensasHoyModII.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_II.RepEsSinDefModII.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_II.RepEstudiantesSinCronograma.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_II.RepModalidadIIPorTutor.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_I.ReporteAlumnosSinProgramarDefensas.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_I.ReporteModalidad_I_I.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_I.ReporteTemas.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.ACTUALIZAR.ACTUALIZAR_TIPO_DE_MODALIDAD.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.InsertarTipoModalidad.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TURNO.ActualizarTurno.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TURNO.InsertarTurno.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.USUARIOS.InsertarUsuario.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.USUARIOS.MODIFICAR.Contraseña.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.USUARIOS.MODIFICAR.DatosPersonales.resources
+H:\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.csproj.GenerateResource.Cache
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.exe
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.pdb
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.dll
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.dll
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.pdb
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.pdb
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\ResolveAssemblyReference.cache
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.LklAlumnos.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.InsertarAula.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.ModificarAula.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.InsertarCargo.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.ModificarCargo.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.InsertarCarrera.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.ModificarCarrera.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CONFIGURACION.AgregarDireccion.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.ActualizarCronograma.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.InsertarCronograma.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarFecha.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarNotas.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarTribunales.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarTribunalPorCambioFechaDefensa.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.InsertarDefensas.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.InsertarDefensaIII.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarFecha.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarNotas.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarTribunales.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarTribunalPorCambioFechaDefensa.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.InsertarDefesaModalidadII.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.InsertarDocente.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.ModificarDocente.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.DatosCarrra.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.DatosModalidad.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.DatosPersonales.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.SeleccionDeEstudiante.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudiante.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudianteNuevaCarrera.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudianteRepitente.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.ActualizarFacultad.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.InsertarFacultad.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Form1.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.InsertarGrupo.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.ModificarGrupo.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.login.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.ActualizarModalidadII.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.RegistrarModalidadII.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Properties.Resources.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.AULA.ReporteAula.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.CRONOGRAMA.RepPresentacionCronogramaPorFecha.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.DefensasParaHoy.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.HabilitadosModalidadII.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.HabilitadosSegundaInstancia.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.ReporteDefensasMod_IIPendientesDeNotas.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.ReporteDefensasMod_IPendientesDeNotas.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.ReporteGraduadosPorFechas.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA_II.DefensasHoyModII.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_II.RepEsSinDefModII.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_II.RepEstudiantesSinCronograma.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_II.RepModalidadIIPorTutor.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_I.ReporteAlumnosSinProgramarDefensas.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_I.ReporteModalidad_I_I.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_I.ReporteTemas.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.ACTUALIZAR.ACTUALIZAR_TIPO_DE_MODALIDAD.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.InsertarTipoModalidad.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TURNO.ActualizarTurno.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TURNO.InsertarTurno.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.USUARIOS.InsertarUsuario.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.USUARIOS.MODIFICAR.Contraseña.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.USUARIOS.MODIFICAR.DatosPersonales.resources
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.csproj.GenerateResource.Cache
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.exe
+G:\ULTIMA PRACTICA\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.pdb
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.exe
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.pdb
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.exe
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.pdb
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.dll
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.dll
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.pdb
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.pdb
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\ResolveAssemblyReference.cache
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.LklAlumnos.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.InsertarAula.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.ModificarAula.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.InsertarCargo.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.ModificarCargo.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.InsertarCarrera.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.ModificarCarrera.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CONFIGURACION.AgregarDireccion.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.ActualizarCronograma.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.InsertarCronograma.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarFecha.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarNotas.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarTribunales.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarTribunalPorCambioFechaDefensa.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.InsertarDefensas.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.InsertarDefensaIII.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarFecha.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarNotas.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarTribunales.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarTribunalPorCambioFechaDefensa.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.InsertarDefesaModalidadII.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.InsertarDocente.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.ModificarDocente.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.DatosCarrra.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.DatosModalidad.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.DatosPersonales.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.SeleccionDeEstudiante.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudiante.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudianteNuevaCarrera.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudianteRepitente.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.ActualizarFacultad.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.InsertarFacultad.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Form1.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.InsertarGrupo.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.ModificarGrupo.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.login.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.ActualizarModalidadII.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.RegistrarModalidadII.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Properties.Resources.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.AULA.ReporteAula.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.CRONOGRAMA.RepPresentacionCronogramaPorFecha.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.DefensasParaHoy.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.HabilitadosModalidadII.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.HabilitadosSegundaInstancia.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.ReporteDefensasMod_IIPendientesDeNotas.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.ReporteDefensasMod_IPendientesDeNotas.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.ReporteGraduadosPorFechas.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA_II.DefensasHoyModII.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_II.RepEsSinDefModII.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_II.RepEstudiantesSinCronograma.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_II.RepModalidadIIPorTutor.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_I.ReporteAlumnosSinProgramarDefensas.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_I.ReporteModalidad_I_I.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_I.ReporteTemas.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.ACTUALIZAR.ACTUALIZAR_TIPO_DE_MODALIDAD.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.InsertarTipoModalidad.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TURNO.ActualizarTurno.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TURNO.InsertarTurno.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.USUARIOS.InsertarUsuario.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.USUARIOS.MODIFICAR.Contraseña.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.USUARIOS.MODIFICAR.DatosPersonales.resources
+D:\wilson\wilson\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.exe
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.pdb
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.dll
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.pdb
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.LklAlumnos.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.InsertarAula.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.ModificarAula.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.InsertarCargo.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.ModificarCargo.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.InsertarCarrera.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.ModificarCarrera.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CONFIGURACION.AgregarDireccion.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.ActualizarCronograma.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.InsertarCronograma.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarFecha.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarNotas.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarTribunales.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarTribunalPorCambioFechaDefensa.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.InsertarDefensas.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.ACTUALIZAR.Notas.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.InsertarDefensaIII.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarFecha.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarNotas.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarTribunales.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarTribunalPorCambioFechaDefensa.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.InsertarDefesaModalidadII.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.InsertarDocente.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.ModificarDocente.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.DatosCarrra.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.DatosModalidad.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.DatosPersonales.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.SeleccionDeEstudiante.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudiante.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudianteNuevaCarrera.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudianteRepitente.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.ActualizarFacultad.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.InsertarFacultad.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.InsertarGrupo.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.ModificarGrupo.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.login.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.ActualizarModalidadII.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.RegistrarModalidadII.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.AULA.ReporteAula.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.CRONOGRAMA.RepPresentacionCronogramaPorFecha.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.DefensasParaHoy.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.HabilitadosModalidadII.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.HabilitadosSegundaInstancia.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.ReporteDefensasMod_IIPendientesDeNotas.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.ReporteDefensasMod_IPendientesDeNotas.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.ReporteGraduadosPorFechas.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA_II.DefensasHoyModII.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_II.RepEsSinDefModII.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_II.RepEstudiantesSinCronograma.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_II.RepModalidadIIPorTutor.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_I.ReporteAlumnosSinProgramarDefensas.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_I.ReporteModalidad_I_I.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_I.ReporteTemas.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.ACTUALIZAR.ACTUALIZAR_TIPO_DE_MODALIDAD.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.InsertarTipoModalidad.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TURNO.ActualizarTurno.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TURNO.InsertarTurno.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.USUARIOS.InsertarUsuario.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.USUARIOS.MODIFICAR.Contraseña.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.USUARIOS.MODIFICAR.DatosPersonales.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.exe
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.pdb
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.ACTUALIZAR.TribunalesDefensaMinisterio.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.ACTUALIZAR.FechaDefensaModIII.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.ACTUALIZAR.FinalizarCambioFecha.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TRIBUNALEXTERNO.InsertarTribunalExterno.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.exe
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.pdb
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.exe
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.pdb
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.dll
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.dll
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.pdb
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.pdb
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\ResolveAssemblyReference.cache
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.LklAlumnos.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.InsertarAula.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.ModificarAula.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.InsertarCargo.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.ModificarCargo.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.InsertarCarrera.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.ModificarCarrera.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CONFIGURACION.AgregarDireccion.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.ActualizarCronograma.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.InsertarCronograma.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarFecha.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarNotas.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarTribunales.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarTribunalPorCambioFechaDefensa.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.InsertarDefensas.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.ACTUALIZAR.FechaDefensaModIII.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.ACTUALIZAR.FinalizarCambioFecha.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.ACTUALIZAR.Notas.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.ACTUALIZAR.TribunalesDefensaMinisterio.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.InsertarDefensaIII.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarFecha.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarNotas.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarTribunales.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarTribunalPorCambioFechaDefensa.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.InsertarDefesaModalidadII.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.InsertarDocente.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.ModificarDocente.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.DatosCarrra.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.DatosModalidad.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.DatosPersonales.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.SeleccionDeEstudiante.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudiante.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudianteNuevaCarrera.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudianteRepitente.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.ActualizarFacultad.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.InsertarFacultad.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Form1.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.InsertarGrupo.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.ModificarGrupo.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.login.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.ActualizarModalidadII.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.RegistrarModalidadII.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Properties.Resources.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.AULA.ReporteAula.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.CRONOGRAMA.RepPresentacionCronogramaPorFecha.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.DefensasParaHoy.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.HabilitadosModalidadII.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.HabilitadosSegundaInstancia.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.ReporteDefensasMod_IIPendientesDeNotas.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.ReporteDefensasMod_IPendientesDeNotas.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.ReporteGraduadosPorFechas.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA_II.DefensasHoyModII.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_II.RepEsSinDefModII.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_II.RepEstudiantesSinCronograma.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_II.RepModalidadIIPorTutor.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_I.ReporteAlumnosSinProgramarDefensas.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_I.ReporteModalidad_I_I.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_I.ReporteTemas.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.ACTUALIZAR.ACTUALIZAR_TIPO_DE_MODALIDAD.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.InsertarTipoModalidad.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TRIBUNALEXTERNO.InsertarTribunalExterno.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TURNO.ActualizarTurno.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TURNO.InsertarTurno.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.USUARIOS.InsertarUsuario.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.USUARIOS.MODIFICAR.Contraseña.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.USUARIOS.MODIFICAR.DatosPersonales.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.csproj.GenerateResource.Cache
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.MODIFICAR.DatosDelGrupo.resources
+E:\PRACTICA PROFESIONAL MODIFICABLE\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.MODIFICAR.ModificarDocente.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.LklAlumnos.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.ACTUALIZAR.FechaDefensaModIII.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.ACTUALIZAR.FinalizarCambioFecha.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.ACTUALIZAR.Notas.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.ACTUALIZAR.TribunalesDefensaMinisterio.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.InsertarDefensaIII.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.DatosCarrra.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.DatosModalidad.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.DatosPersonales.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.SeleccionDeEstudiante.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudianteNuevaCarrera.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudianteRepitente.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.MODIFICAR.DatosDelGrupo.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.MODIFICAR.ModificarDocente.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.AULA.ReporteAula.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.CRONOGRAMA.RepPresentacionCronogramaPorFecha.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.DefensasParaHoy.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.HabilitadosModalidadII.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.HabilitadosSegundaInstancia.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.ReporteDefensasMod_IIPendientesDeNotas.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.ReporteDefensasMod_IPendientesDeNotas.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.ReporteGraduadosPorFechas.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA_II.DefensasHoyModII.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_II.RepEsSinDefModII.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_II.RepEstudiantesSinCronograma.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_II.RepModalidadIIPorTutor.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_I.ReporteAlumnosSinProgramarDefensas.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_I.ReporteModalidad_I_I.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_I.ReporteTemas.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TRIBUNALEXTERNO.InsertarTribunalExterno.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TURNO.ActualizarTurno.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.USUARIOS.InsertarUsuario.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.USUARIOS.MODIFICAR.Contraseña.resources
+C:\Users\HP\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.USUARIOS.MODIFICAR.DatosPersonales.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.exe
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.pdb
+D:\escritorio\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.exe
+D:\escritorio\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.pdb
+D:\escritorio\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.dll
+D:\escritorio\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.dll
+D:\escritorio\MODALIDADES_SYS\VISTAS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\escritorio\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.pdb
+D:\escritorio\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.pdb
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\ResolveAssemblyReference.cache
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.LklAlumnos.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.InsertarAula.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.ModificarAula.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.InsertarCargo.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.ModificarCargo.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.InsertarCarrera.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.ModificarCarrera.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CONFIGURACION.AgregarDireccion.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.ActualizarCronograma.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.InsertarCronograma.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarFecha.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarNotas.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarTribunales.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarTribunalPorCambioFechaDefensa.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.InsertarDefensas.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.ACTUALIZAR.FechaDefensaModIII.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.ACTUALIZAR.FinalizarCambioFecha.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.ACTUALIZAR.Notas.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.ACTUALIZAR.TribunalesDefensaMinisterio.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.InsertarDefensaIII.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarFecha.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarNotas.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarTribunales.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarTribunalPorCambioFechaDefensa.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.InsertarDefesaModalidadII.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.InsertarDocente.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.ModificarDocente.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.DatosCarrra.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.DatosModalidad.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.DatosPersonales.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.SeleccionDeEstudiante.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudiante.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudianteNuevaCarrera.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudianteRepitente.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.ActualizarFacultad.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.InsertarFacultad.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Form1.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.InsertarGrupo.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.ModificarGrupo.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.MODIFICAR.DatosDelGrupo.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.MODIFICAR.ModificarDocente.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.login.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.ActualizarModalidadII.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.RegistrarModalidadII.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Properties.Resources.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.AULA.ReporteAula.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.CRONOGRAMA.RepPresentacionCronogramaPorFecha.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.DefensasParaHoy.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.HabilitadosModalidadII.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.HabilitadosSegundaInstancia.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.ReporteDefensasMod_IIPendientesDeNotas.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.ReporteDefensasMod_IPendientesDeNotas.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.ReporteGraduadosPorFechas.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA_II.DefensasHoyModII.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_II.RepEsSinDefModII.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_II.RepEstudiantesSinCronograma.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_II.RepModalidadIIPorTutor.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_I.ReporteAlumnosSinProgramarDefensas.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_I.ReporteModalidad_I_I.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_I.ReporteTemas.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.ACTUALIZAR.ACTUALIZAR_TIPO_DE_MODALIDAD.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.InsertarTipoModalidad.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TRIBUNALEXTERNO.InsertarTribunalExterno.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TURNO.ActualizarTurno.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TURNO.InsertarTurno.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.USUARIOS.InsertarUsuario.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.USUARIOS.MODIFICAR.Contraseña.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.USUARIOS.MODIFICAR.DatosPersonales.resources
+D:\escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.MODIFICAR.DatosDelGrupo.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.MODIFICAR.ModificarDocente.resources
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.MODALIDAD_OLVIDADA.InsertarModalidadOlvidada.resources
+G:\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.exe
+G:\PRACTICA PROFESIONAL\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.pdb
+C:\Documents and Settings\Administrador\Escritorio\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AMPLIACION.Retrazar.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.exe
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\bin\Debug\VISTAS.pdb
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.dll
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.dll
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\bin\Debug\BSS.pdb
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\bin\Debug\DAL.pdb
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.LklAlumnos.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AMPLIACION.Retrazar.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.InsertarAula.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.AULA.ModificarAula.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.InsertarCargo.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARGO.ModificarCargo.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.InsertarCarrera.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CARRERA.ModificarCarrera.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CONFIGURACION.AgregarDireccion.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.ActualizarCronograma.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.CRONOGRAMA.InsertarCronograma.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarFecha.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarNotas.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarTribunales.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.Actualizar.ActualizarTribunalPorCambioFechaDefensa.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSAS.InsertarDefensas.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.ACTUALIZAR.FechaDefensaModIII.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.ACTUALIZAR.FinalizarCambioFecha.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.ACTUALIZAR.Notas.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.ACTUALIZAR.TribunalesDefensaMinisterio.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_III.InsertarDefensaIII.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarFecha.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarNotas.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarTribunales.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.Actualizar.ActualizarTribunalPorCambioFechaDefensa.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DEFENSA_II.InsertarDefesaModalidadII.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.InsertarDocente.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.DOCENTE.ModificarDocente.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.DatosCarrra.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.DatosModalidad.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.DatosPersonales.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.ACTUALIZAR_ESTUDIANTE.SeleccionDeEstudiante.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudiante.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudianteNuevaCarrera.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.ESTUDIANTE.InsertarEstudianteRepitente.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.ActualizarFacultad.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.FACULTAD.InsertarFacultad.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Form1.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.InsertarGrupo.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.ModificarGrupo.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.MODIFICAR.DatosDelGrupo.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.GRUPO.MODIFICAR.ModificarDocente.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.login.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.ActualizarModalidadII.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.MODALIDAD_II.RegistrarModalidadII.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.MODALIDAD_OLVIDADA.InsertarModalidadOlvidada.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.Properties.Resources.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.AULA.ReporteAula.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.CRONOGRAMA.RepPresentacionCronogramaPorFecha.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.DefensasParaHoy.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.HabilitadosModalidadII.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.HabilitadosSegundaInstancia.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.ReporteDefensasMod_IIPendientesDeNotas.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.ReporteDefensasMod_IPendientesDeNotas.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA.ReporteGraduadosPorFechas.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.DEFENSA_II.DefensasHoyModII.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_II.RepEsSinDefModII.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_II.RepEstudiantesSinCronograma.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_II.RepModalidadIIPorTutor.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_I.ReporteAlumnosSinProgramarDefensas.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_I.ReporteModalidad_I_I.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.REPORTES.MODALIDAD_I.ReporteTemas.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.ACTUALIZAR.ACTUALIZAR_TIPO_DE_MODALIDAD.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TIPOMODALIDAD.InsertarTipoModalidad.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TRIBUNALEXTERNO.InsertarTribunalExterno.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TURNO.ActualizarTurno.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.TURNO.InsertarTurno.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.USUARIOS.InsertarUsuario.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.USUARIOS.MODIFICAR.Contraseña.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.USUARIOS.MODIFICAR.DatosPersonales.resources
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.csproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.exe
+C:\Users\Andrea\Desktop\MODALIDADES_SYS\VISTAS\obj\Debug\VISTAS.pdb
+C:\Users\Andrea\Desktop\A QUEMAR\CODIGO FUENTE\VISTAS\obj\Debug\VISTAS.exe
+C:\Users\Andrea\Desktop\A QUEMAR\CODIGO FUENTE\VISTAS\obj\Debug\VISTAS.pdb
